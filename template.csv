@@ -1,0 +1,11 @@
+Id,Tenant,VRF,BD,App Profile,EPG,VM Domain,BM Domain,Prov Contract,Cons Contract,Contract
+1,company01-hangwe,vrf_aaa,bd_aaa,ap_aaa,web,POV-UCS-HX,,,http_aaa,http_aaa
+2,company01-hangwe,vrf_aaa,bd_aaa,ap_aaa,app,POV-UCS-HX,,http_aaa,sql_aaa,sql_aaa
+3,company01-hangwe,vrf_aaa,bd_aaa,ap_aaa,db,POV-UCS-HX,,sql_aaa,,
+4,company01-hangwe,vrf_bbb,bd_bbb,ap_bbb,frontend,POV-UCS-HX,,,f2b,f2b
+5,company01-hangwe,vrf_bbb,bd_bbb,ap_bbb,backend,POV-UCS-HX,,f2b,,
+6,company02-hangwe,vrf_ccc,bd_ccc,ap_ccc,web,POV-UCS-HX,,,http_ccc,http_ccc
+7,company02-hangwe,vrf_ccc,bd_ccc,ap_ccc,app,POV-UCS-HX,,http_ccc,sql_ccc,sql_ccc
+8,company02-hangwe,vrf_ccc,bd_ccc,ap_ccc,db,POV-UCS-HX,,sql_ccc,,
+9,company02-hangwe,vrf_ddd,bd_ddd,ap_ddd,frontend,POV-UCS-HX,,,f2b,f2b
+10,company02-hangwe,vrf_ddd,bd_ddd,ap_ddd,backend,POV-UCS-HX,,f2b,,
